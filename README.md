@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @guirdrummond
+- 👀 I’m interested in Data!
+- 🌱 I’m currently learning Integration Services, Analysis Services and Power BI
+- 💞️ I’m looking to collaborate on BI and Data Science projects
+- 📫 How to reach me: guilhermerd70@gmail.com
